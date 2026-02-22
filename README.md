@@ -13,5 +13,6 @@ Data Visualization & Reporting
 **Email:** dairoluwapelumi@gmail.com   
 **LinkedIn:** www.linkedin.com/in/oluwapelumi-dairo-515b39238
 
+## 💼 projects
 
 ⭐Feel free to explore my projects and reach out if you'd like to collaborate or discuss data! 
