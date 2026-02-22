@@ -4,7 +4,7 @@
 I'm a **Data Analyst** dedicated to turning raw data into actionable insights.
 I specialize in Excel and Power BI to analyze, visualize and communicate data-driven solutions.
 
-**Skills and Tools** 
+**Skills and Tools**         
 Microsoft Excel (Advanced formulas, Pivot Tables, Data Analysis)  
 Power BI (Dashboard creation, DAX, Data modeling)  
 Data Cleaning & Preparation  
