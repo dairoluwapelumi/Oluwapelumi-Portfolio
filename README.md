@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Oluwapelumi Dairo
 
 ## 📌 About Me
-I'm a ** Data Analyst** dedicated to turning raw data into actionable insights.
+I'm a **Data Analyst** dedicated to turning raw data into actionable insights.
 I specialize in Excel and Power BI to analyze, visualize and communicate data-driven solutions.
 
 **Skills and Tools**
