@@ -10,7 +10,7 @@ Power BI (Dashboard creation, DAX, Data modeling)
 Data Cleaning & Preparation
 Data Visualization & Reporting
 
-**Email:** dairoluwapelumi@gmail.com
+**Email:** dairoluwapelumi@gmail.com   
 **LinkedIn:** www.linkedin.com/in/oluwapelumi-dairo-515b39238
 
 
