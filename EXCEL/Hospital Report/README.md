@@ -48,7 +48,7 @@ This project analyzes hospital patient health metrics and financial performance 
 - 11.8% YoY revenue decline indicates market pressures
 - Top diagnoses (diabetes, hypertension, low back pain) require targeted care programs
 
-##💡 Recommendations
+## 💡 Recommendations
 
 - Launch chronic disease management programs targeting 27.3% hypertensive and 18.7% diabetic populations
 - Improve collection rate from 56.2% to 60-65% through enhanced billing practices and follow-up
