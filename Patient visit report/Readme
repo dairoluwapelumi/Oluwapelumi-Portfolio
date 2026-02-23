@@ -1,1 +1,120 @@
+Healthcare Patient Management & Treatment Pathway Dashboard
 
+## 📊 Project Overview
+
+Interactive Power BI dashboard analyzing patient visit patterns, treatment pathways, and healthcare operations across 62,561 patient visits. This analysis provides insights into insurance utilization, departure dispositions, and length of stay to optimize hospital operations and improve patient care delivery.
+
+**Tools Used:** Power BI (DAX, Data Modeling, Interactive Visualizations, Custom Measures)
+
+## 🎯 Key Objectives
+
+- Analyze patient visit patterns and treatment plans
+- Track insurance provider utilization and coverage
+- Monitor patient departure dispositions and outcomes
+- Identify length of stay patterns and CTAS (Canadian Triage and Acuity Scale) level distribution
+- Provide actionable insights for resource allocation and capacity planning
+
+## 📈 Dashboard Overview
+
+![Patient Visit Dashboard](./MANAGEMENT_AND_TREATMENT_PATHWAY_DASHBOARD.png)
+
+**Key Metrics:**
+- **62,561 total patient visits** analyzed
+- **5.26 days average length of stay**
+- **Multiple treatment pathways** tracked (Medication, Observation, Discharge, Surgery, Specialist Referral)
+- **Insurance provider breakdown** across 5+ major providers
+- **CTAS level distribution** for triage prioritization
+
+## 🔍 Key Insights
+
+**Insurance & Coverage Analysis:**
+- **Medicare dominates** with 18.8K visits (30% of total volume)
+- **Private insurance** accounts for 15.5K visits (second highest)
+- **Self-Pay represents 9.4K visits**, indicating significant uninsured population
+- **Medicaid covers 12.6K visits**, with Employer-Sponsored plans at 6.2K
+
+**Treatment Pathways:**
+- **Medication is the primary treatment plan** with 25K patients (40% of visits)
+- **Observation required for 13K patients** (21% of visits)
+- **Discharge with instructions**: 12K patients (19%)
+- **Surgery performed on 6K patients** (10%)
+- **Specialist referrals**: 6K cases (10%)
+
+**Patient Departure & Outcomes:**
+- **31K patients discharged home** (50% of total) - primary outcome
+- **19K admitted to inpatient care** (30%)
+- **9K transferred to another facility** (14%)
+- **3K left against medical advice** (5%)
+
+**Length of Stay Distribution:**
+- **23K patients stayed 1-3 days** (shortest stay group - 37%)
+- **16K patients stayed 5-7 days** (26%)
+- **16K patients stayed 10-14 days** (26%)
+- Average length of stay: **5.26 days**
+
+**CTAS Level Analysis (Urgency):**
+- **Less Urgent cases**: 22K visits (35% of total)
+- **Urgent cases**: 22K visits (35% of total)
+- **Emergent cases**: 9K visits (14%)
+- **Non-Urgent**: 6K visits (10%)
+- **Resuscitation**: 3K visits (5% - highest priority)
+
+## 💡 Recommendations
+
+**Operational Efficiency:**
+
+1. **Optimize medication pathway processes** serving 25K patients (40% of volume)
+2. **Reduce average length of stay from 5.26 days** through enhanced discharge planning for 1-3 day stay patients
+3. **Improve discharge planning for 31K patients** going home to reduce readmissions
+4. **Streamline observation protocols** for 13K patients to reduce bottlenecks
+
+**Resource Allocation:**
+
+5. **Strengthen Medicare capacity** for 18.8K visits (largest insurance segment)
+6. **Expand specialist referral networks** to handle 6K referral cases efficiently
+7. **Focus urgent and emergent care resources** on 31K combined cases (49% of volume)
+8. **Enhance surgical capacity** to serve 6K patients requiring procedures
+
+**Financial & Access:**
+
+9. **Address self-pay population** (9.4K visits) with financial counseling and assistance programs
+10. **Negotiate better rates with Private insurance** (15.5K visits - second largest segment)
+11. **Reduce patients leaving against medical advice** (3K cases) through better communication
+
+**Quality Improvement:**
+
+12. **Investigate 19K inpatient admissions** to identify preventable admissions
+13. **Analyze 9K facility transfers** to reduce unnecessary transfers
+14. **Target 23K short-stay patients (1-3 days)** for same-day discharge opportunities
+
+
+## 🛠️ Technical Skills Demonstrated
+
+### Power BI Features Used:
+- **DAX Calculations** for average length of stay and percentage distributions
+- **Custom Measures** for patient count aggregations and comparisons
+- **Interactive Slicers** for dynamic filtering
+- **Bar Charts** for comparative analysis across categories
+- **Card Visuals** for KPI tracking (total visits, average length of stay)
+- **Multi-page Dashboard** design for comprehensive analysis
+- **Color Coding** for visual hierarchy and quick insights
+- **Data Modeling** to connect patient visits, insurance, and treatment data
+
+### Analytical Capabilities:
+- Healthcare operations analysis
+- Insurance utilization tracking
+- Patient flow optimization
+- Treatment pathway analysis
+- Triage level distribution
+- Length of stay analysis
+
+## 🎓 Skills Demonstrated
+
+- Healthcare analytics and operational metrics
+- Power BI dashboard development
+- DAX formula creation and custom measures
+- Interactive data visualization
+- Patient flow analysis
+- Insurance and financial analytics
+- Treatment pathway optimization
+- Data modeling and relationships
