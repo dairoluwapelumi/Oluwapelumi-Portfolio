@@ -87,8 +87,6 @@ This is a comprehensive crime analysis examining 60,000 criminal incidents to id
 11. **Investigate August crime spike** (286 MoM increase) to identify root causes
 12. **Address weekday crime concentration** (71%) with targeted weekday patrols
 
----
-
 ## 🛠️ Technical Skills Demonstrated
 
 - Crime data analysis and pattern recognition
@@ -99,12 +97,6 @@ This is a comprehensive crime analysis examining 60,000 criminal incidents to id
 - Heatmap creation for time-based analysis
 - Demographic analysis and visualization
 - KPI tracking and performance metrics
-
-## 📁 Files
-
-- `DASHBOARD_1.png` - Time and trend analysis visualization
-- `DASHBOARD_2.png` - Geographic and demographic analysis visualization
-- `Crime_Analysis.xlsx` - Complete workbook with data and analysis
 
 ## 🎓 Skills Demonstrated
 
