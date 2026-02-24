@@ -19,7 +19,7 @@ This project analyzes hospital patient health metrics and financial performance 
 - Length of stay analysis across departments
 
 ## 📈 Dashboard 2: Financial Performance Dashboard
-![Revenue Dashboard](./Revenue_Dashboard.png)
+![Revenue Dashboard](./Revenue%20Dashboard.png)
 
 **Metrics Analyzed**
 
