@@ -28,6 +28,8 @@ This project analyzes hospital patient health metrics and financial performance 
 - Revenue trends by specialty, payer type, and age group
 - Claims distribution and A/R cycle analysis
 
+## 📥 Download Dashboard
+
 ## 🔍 Key Insights
 **Patient Health**
 
