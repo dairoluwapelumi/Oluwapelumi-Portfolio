@@ -9,7 +9,7 @@ This project analyzes hospital patient health metrics and financial performance 
 - **Operational Efficiency**: Analyze claims processing, payment cycles, and specialty performance
 
 ## 📈 Dashboard 1: Patient Health Metrics Dashboard
-![Patient Dashboard](./Patient_Dashboard.png)
+![Patient Dashboard](./Patient%20Dashboard.png)
 
 **Metrics Analyzed**
 
