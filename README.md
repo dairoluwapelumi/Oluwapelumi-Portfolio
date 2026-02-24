@@ -62,7 +62,7 @@ Interactive Power BI dashboard analyzing patient visit patterns, treatment pathw
 ⭐Feel free to explore my projects and reach out if you'd like to collaborate or discuss data! 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-dairo-515b39238)
-- 📧 Email: dairoluwapelumi@gmail.com
+- 📧 Email: [dairoluwapelumi@gmail.com](mailto:dairoluwapelumi@gmail.com)
 - 🐙 GitHub: You're already here!
 
 *Portfolio last updated: February 2025*
