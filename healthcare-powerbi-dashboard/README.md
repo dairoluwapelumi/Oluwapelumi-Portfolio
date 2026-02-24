@@ -59,6 +59,12 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 - Inpatient admission trends throughout the year (peak at 4.50% in December)
 - Seasonal patterns and capacity planning insights
 
+## 📥 Download Dashboard
+
+**[Download Power BI File (.pbix)](./Healthcare_Patient_Management.pbix)**
+
+*Note: Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to open*
+
 ## 🔍 Key Insights
 
 **Patient Volume & Emergency Care (Page 1):**
