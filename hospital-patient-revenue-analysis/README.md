@@ -28,7 +28,9 @@ This project analyzes hospital patient health metrics and financial performance 
 - Revenue trends by specialty, payer type, and age group
 - Claims distribution and A/R cycle analysis
 
-## 📥 Download Dashboard
+## 📥 Download Files
+
+**[📊 Download Excel Workbook](./Hospital%20Dataset.xlsx)** - Full analysis with all data and calculations
 
 ## 🔍 Key Insights
 **Patient Health**
