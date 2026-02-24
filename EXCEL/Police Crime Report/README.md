@@ -16,7 +16,7 @@ This is a comprehensive crime analysis examining 60,000 criminal incidents to id
 ## 📈 Dashboards
 
 ### Dashboard 1: Time & Trend Analysis
-![Crime Dashboard 1](./DASHBOARD_1.png)
+![Crime Dashboard 1](./DASHBOARD%201.png)
 
 **Metrics Analyzed:**
 - Total crimes: 40,740 incidents
@@ -25,7 +25,7 @@ This is a comprehensive crime analysis examining 60,000 criminal incidents to id
 - Crime characteristics (injuries, property damage, weapons)
 
 ### Dashboard 2: Geographic & Demographic Analysis
-![Crime Dashboard 2](./DASHBOARD_2.png)
+![Crime Dashboard 2](./DASHBOARD%202.png)
 
 **Metrics Analyzed:**
 - Crime distribution across states and locations
