@@ -61,7 +61,7 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 
 ## 📥 Download Dashboard
 
-**[Download Power BI File (.pbix)](./HEALTHCARE%20POWER%20BI%20DASHBOARD.pbix)**
+**[Download Power BI File (.pbix)](./HEALTHCARE_DASHBOARD.pbix)**
 
 *Note: Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to open*
 
