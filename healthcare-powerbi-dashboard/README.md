@@ -50,7 +50,7 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 - CTAS urgency levels: Less Urgent & Urgent (22K each)
 
 ### Page 4: Arrival, Discharge & Volume Trends
-![Volume Trends Dashboard](./ARRIVAL%20DISCHARGE%20AND%20VOLUME%20TREND.png)
+![Volume Trends Dashboard](./ARRIVAL,%20DISCHARGE%20AND%20VOLUME%20TREND.png)
 
 **Focus Areas:**
 - Patient arrival patterns by time interval (Peak: 8AM-12PM with 40,255 visits)
