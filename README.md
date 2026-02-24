@@ -25,7 +25,7 @@ Comprehensive analysis of hospital operations examining patient health metrics a
 
 **Skills Demonstrated:** Healthcare analytics, Financial analysis, KPI tracking, Advanced Excel formulas, Pivot tables, Dashboard design
 
-[View Project →](./Hospital%20Report)
+[View Project →](.EXCEL/Hospital%20Report)  
 
 ### 2. [Police Department Crime Analysis](./police-crime-analysis)
 **Tools Used:** Microsoft Excel  
