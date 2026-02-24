@@ -12,7 +12,7 @@ Data Visualization & Reporting
 
 ## 💼 Projects
 
-### 1. [Hospital%20Report](./hospital%20Report)
+### 1. [Hospital Patient & Revenue Analysis](.Hospital-Patient-Revenue-Analysis)
 **Tools Used:** Microsoft Excel  
 
 Comprehensive analysis of hospital operations examining patient health metrics and financial performance across 2,000 patients and 8,000 claims to identify improvement opportunities in patient care and revenue optimization.
