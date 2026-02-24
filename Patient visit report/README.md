@@ -19,7 +19,7 @@ Interactive Power BI dashboard analyzing patient visit patterns, treatment pathw
 This comprehensive 4-page Power BI dashboard provides end-to-end analysis of patient visits, from arrival through treatment to discharge outcomes.
 
 ### Page 1: Patient Visit & Emergency Care Analysis
-![Emergency Care Dashboard](./VISITS_AND_EMERGENCY_CARE_DASHBOARD.png)
+![Emergency Care Dashboard](./VISITS%20AND%20EMERGENCY%20CARE%20DASHBOARD.png)
 
 **Focus Areas:**
 - Total patient visits: 62,561 with 21,832 urgent admissions
@@ -30,7 +30,7 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 - Gender demographics (Female: 60%, Male: 28%, Other: 12%)
 
 ### Page 2: Diagnosis & Care Outcome Analysis
-![Diagnosis Dashboard](./DIAGNOSIS_AND_CARE_OUTCOME_DASHBOARD.png)
+![Diagnosis Dashboard](./DIAGNOSIS%20AND%20CARE%20OUTCOME%20DASHBOARD.png)
 
 **Focus Areas:**
 - Total patient visits: 13,995 with 5.23 days average length of stay
@@ -40,7 +40,7 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 - Diagnosis patterns by gender and age group
 
 ### Page 3: Management & Treatment Pathway Analysis
-![Treatment Pathway Dashboard](./MANAGEMENT_AND_TREATMENT_PATHWAY_DASHBOARD.png)
+![Treatment Pathway Dashboard](./MANAGEMENT%20AND%20TREATMENT%20PATHWAY%20DASHBOARD.png)
 
 **Focus Areas:**
 - Treatment plan distribution: Medication (25K), Observation (13K), Discharge (12K)
@@ -50,7 +50,7 @@ This comprehensive 4-page Power BI dashboard provides end-to-end analysis of pat
 - CTAS urgency levels: Less Urgent & Urgent (22K each)
 
 ### Page 4: Arrival, Discharge & Volume Trends
-![Volume Trends Dashboard](./ARRIVAL__DISCHARGE_AND_VOLUME_TREND.png)
+![Volume Trends Dashboard](./ARRIVAL%20DISCHARGE%20AND%20VOLUME%20TREND.png)
 
 **Focus Areas:**
 - Patient arrival patterns by time interval (Peak: 8AM-12PM with 40,255 visits)
