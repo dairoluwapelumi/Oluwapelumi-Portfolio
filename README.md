@@ -7,7 +7,7 @@ I specialize in Excel, Power BI and SQL to analyze, visualize and communicate da
 **Skills and Tools**         
 Microsoft Excel (Advanced formulas, Pivot Tables, Data Analysis)  
 Power BI (Dashboard creation, DAX, Data modeling)  
-SQL (MYSQL; Data querying, Joins, Aggregations and Subqueries)
+SQL (MYSQL; Data querying, Joins, Aggregations and Subqueries)    
 Data Cleaning & Preparation  
 Data Visualization & Reporting  
 
