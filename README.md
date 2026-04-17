@@ -2,11 +2,12 @@
 
 ## 📌 About Me
 I'm a **Data Analyst** dedicated to turning raw data into actionable insights.
-I specialize in Excel and Power BI to analyze, visualize and communicate data-driven solutions.
+I specialize in Excel, Power BI and SQL to analyze, visualize and communicate data-driven solutions.
 
 **Skills and Tools**         
 Microsoft Excel (Advanced formulas, Pivot Tables, Data Analysis)  
 Power BI (Dashboard creation, DAX, Data modeling)  
+SQL (MYSQL; Data querying, Joins, Aggregations and Subqueries) 
 Data Cleaning & Preparation  
 Data Visualization & Reporting  
 
