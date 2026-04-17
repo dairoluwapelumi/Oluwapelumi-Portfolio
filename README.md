@@ -57,6 +57,14 @@ Interactive Power BI dashboard analyzing patient visit patterns, treatment pathw
 
 [View Project →](./healthcare-powerbi-dashboard)
 
+### 4. Retail Sales SQL Analysis
+**Tools Used:** MySQL
+
+Analysis of 50,000 retail sales transactions to identify 
+revenue trends, top products, and customer behaviour.
+
+[View Project →](retail-sales-sql-analysis/)
+
 ## 📫 Let's Connect
 
 ⭐Feel free to explore my projects and reach out if you'd like to collaborate or discuss data! 
