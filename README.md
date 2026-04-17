@@ -73,4 +73,4 @@ revenue trends, top products, and customer behaviour.
 - 📧 Email: [dairoluwapelumi@gmail.com](mailto:dairoluwapelumi@gmail.com)
 - 🐙 GitHub: You're already here!
 
-*Portfolio last updated: February 2025*
+*Portfolio last updated: April 2026*
