@@ -28,5 +28,5 @@ SQL querying, Aggregations, GROUP BY, HAVING,
 ORDER BY, Filtering, Date functions
 
 ## Files
-- `retail_db_50k.sql` — Database and dataset
-- `retail_analysis.sql` — All SQL queries used
+- [retail_db_50k.sql](./retail_db_50k.sql) — Database and dataset
+- [retail_analysis.sql](./retail_analysis.sql) — All SQL queries used
