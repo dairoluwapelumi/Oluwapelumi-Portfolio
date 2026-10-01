@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oluwapelumi Dairo
+# 👋 Hello, I'm Oluwapelumi 
 
 ## 📌 About Me
 I'm a **Data Analyst** dedicated to turning raw data into actionable insights.
